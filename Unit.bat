@@ -1,1 +1,1 @@
-echo" Unit Testing the Project : %date% :%time%"
+echo "Unit Testing the Project : %date% :%time%"
